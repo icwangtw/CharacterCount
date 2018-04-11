@@ -11,4 +11,3 @@ function countLetters(input) {
   }
   return lettersCounted;
 }
-console.log(countLetters("Burrard Station"))
